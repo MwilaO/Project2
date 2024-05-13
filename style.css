@@ -1,0 +1,21 @@
+
+*{
+    background-color:rgb(209, 209, 223)
+}
+
+hr{
+    border:solid 1px;
+}
+
+h1{
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 300;
+    font-style: normal;
+    text-align:center;
+  }
+
+  h2{
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 300;
+    font-style: normal;
+  }
